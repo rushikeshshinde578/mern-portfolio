@@ -49,7 +49,7 @@ const ForgotPassword = () => {
               <Label htmlFor="email">Email</Label>
               <Input
                 type="email"
-                placeholder="m@example.com"
+                placeholder="xyz@email.com"
                 value={email}
                 onChange={(e)=> setEmail(e.target.value)}
                 required
