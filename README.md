@@ -1,4 +1,1 @@
-My portfolio, built using the MERN stack, integrates MongoDB for data storage, Express.js for 
-backend APIs, and React.js for dynamic frontend. Deployed on Render for reliable backend 
-hosting and Netlify for seamless frontend deployment, it showcases my projects, skills, and 
-contact information with modern web development practices.
+Developed a full-stack web application using the MERN stack, featuring an admin panel for seamless data management—allowing administrators to add, update, and delete information. Implemented secure user authentication and a RESTful API for smooth communication between frontend and backend. Hosted on Render and Netlify for optimal performance, this project highlights my skills in modern web development and dynamic data management.
