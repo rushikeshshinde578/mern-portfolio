@@ -1,1 +1,5 @@
-Developed a full-stack web application using the MERN stack, featuring an admin panel for seamless data management—allowing administrators to add, update, and delete information. Implemented secure user authentication and a RESTful API for smooth communication between frontend and backend. Hosted on Render and Netlify for optimal performance, this project highlights my skills in modern web development and dynamic data management.
+Technologies Used: Node.js, Express, MongoDB, React, Redux Toolkit, Tailwind CSS, ShadCN 
+Dynamic portfolio for displaying projects and skills
+Admin dashboard for managing projects, skills, certificates, personal details, and messages
+Seamless CRUD operations (create, read, update, delete)
+Responsive design for a modern user experience
